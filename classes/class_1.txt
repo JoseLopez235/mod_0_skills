@@ -1,0 +1,13 @@
+class JobPosition
+
+Attributes:
+job_title(string)
+hourly_pay(float)
+work_hours(integer)
+available(boolean)
+
+Methods:
+add_job_title(Changes the job_title attribute and gives  title such as: "Waiter", "Cashier")
+give_raise(Increases hourly_pay by 10%)
+set_work_hours(Gives an integer to work_hours to determine amount of time they will work)
+position_available?(Will change the attribute available depending if the position is taken or not)
