@@ -1,0 +1,13 @@
+Instance: cashier
+
+Attributes:
+job_title("empty")
+hourly_pay(10.50)
+work_hours(0)
+available(false)
+
+Methods:
+add_job_title -> job_title = "cashier"
+give_raise -> hourly_pay * 0.1 = 11.55
+set_work_hours -> work_hours = 20
+position_available -> available = true
