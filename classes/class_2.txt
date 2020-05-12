@@ -8,6 +8,6 @@ menu_color(string)
 
 Methods:
 add_drinks(will be an array of drinks that will change the drinks attribute)
-add_dessert(will add a single dessert to the attribute dessert_of_the_day)
+change_dessert(will add a single dessert to the attribute dessert_of_the_day)
 change_menu_color(will change menu_color)
-add_menu_items(will return total items in the menu and change the attribute total_menu_items)
+add_all_menu_items(will return total items in the menu and change the attribute total_menu_items)

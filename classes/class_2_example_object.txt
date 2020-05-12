@@ -1,0 +1,13 @@
+instance -> Wendy's Menu
+
+Attributes:
+drinks = ["water", "coke", "sprite"]
+dessert_of_the_day = "apple pie"
+total_menu_items = 0
+menu_color = brown
+
+Methods:
+add_drinks: (["dr.pepper", "vodka"]) -> drinks =["water", "coke", "sprite", "dr.pepper", "vodka"]
+change_dessert: dessert_of_the_day = "cake"
+change_menu_color: menu_color = blue
+add_all_menu_items: total_menu_items = 20
