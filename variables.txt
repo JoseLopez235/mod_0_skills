@@ -1,0 +1,12 @@
+food = "Pizza"
+is_delicious = true
+food = "Tacos"
+
+num2 = 20
+num7 = 40
+quotient = num7 / num2
+
+songs = ["Imagine", "Yesterday", "Hey Jude"]
+songs.shift
+
+puts "How many characters does the food string have?"
